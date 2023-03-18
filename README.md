@@ -1,5 +1,25 @@
-<<<<<<< HEAD
-# Getting Started with Create React App
+# React To-Do Application
+
+## Below are the Images of the Application
+
+### First look when the Application in opened.
+![Firstlook](https://user-images.githubusercontent.com/62844406/226086250-0178cab4-d8cf-4d96-b6b4-ea08e5de65ed.jpg)
+
+### Added Tasks in the To-Do Application
+![Added Tasks](https://user-images.githubusercontent.com/62844406/226086298-68db50dd-dd53-4d10-8713-15de2d1b7d5b.jpg)
+
+### Striked off the Completed Tasks
+![CompletedTasksStrikedout](https://user-images.githubusercontent.com/62844406/226086463-cb000961-6431-4f0c-97ab-f527fe345dde.jpg)
+
+### Deleted the Previously Existed Tasks on the To-Do Application
+![Deleted Things](https://user-images.githubusercontent.com/62844406/226086326-b63ca395-8bb6-4b50-9997-0044208b1068.jpg)
+
+### Updating the Tasks
+![Updating Tasks](https://user-images.githubusercontent.com/62844406/226086478-4fef365b-c731-476b-879b-f0d259be7710.jpg)
+![Updated Tasks](https://user-images.githubusercontent.com/62844406/226086479-86ea88fc-2448-4b59-a7c4-8e4b7aebc83e.jpg)
+
+# You can Clone and run this project on your local server.
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
